@@ -1,0 +1,14 @@
+
+aside{
+float:right;
+margin-left:50%;
+padding-left:10%;
+background-color:red
+}
+a:hover{
+  background-color:#C0C0C0;
+}
+#p1{
+text-align:right;
+title:Objective
+}
